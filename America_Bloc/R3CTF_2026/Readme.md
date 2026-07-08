@@ -77,3 +77,8 @@ Have your team captain or a representative fill out the form below and email it 
 **Changed your mind mid-CTF**? No worries. Just **drop us a ticket** and we'll move you back to the default bracket. We care more about honest competition than about catching people out.
 
 Most of all, play R3CTF's final Jeopardy your way. We'd also like to thank `KalmarCTF 2026` and `plfanzen CTF 2026` for their pioneering work on LLM policies that helped pave the way for ours. <:blobheart:1362642910419619881>  Above all, we hope everyone could enjoy this game! 🔥
+
+
+
+
+https://github.com/hax1ng/r3ctf-2026-writeups/blob/master/crypto/HEuristic.md
