@@ -9,8 +9,12 @@ ciphertext.txt  encoder.py
 
 ┌──(samin㉿kali)-[~/Downloads/CTF_prac_fiiles/stream]
 └─$ python3 
+
 Python 3.13.12 (main, Feb  4 2026, 15:06:39) [GCC 15.2.0] on linux
+
 Type "help", "copyright", "credits" or "license" for more information.
+
+```python
 >>> from binascii import unhexlify
 ... 
 ... MOD = 1 << 32
@@ -52,6 +56,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ...             pass
 ...             
 
+```
 [+] Seed: 369020
 [Aperture Science Internal]
 classification=stable
