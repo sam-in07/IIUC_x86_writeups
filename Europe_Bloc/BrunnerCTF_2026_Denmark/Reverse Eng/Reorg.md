@@ -1,4 +1,4 @@
-Solver : SideChiks
+
 ### Analysis of the NGINX Routing Logic
 
   1. Route Deconstruction & Character Mapping (default.conf:6-90):
